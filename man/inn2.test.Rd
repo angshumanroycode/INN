@@ -31,7 +31,7 @@ A list of the following components:
   \item{T2sum.stat}{
 The value of the test statistic T2sum.
 }
-  \item{T2sum.max}{
+  \item{T2max.stat}{
 The value of the test statistic T2max.
 }
   \item{T2sum.cutoff}{

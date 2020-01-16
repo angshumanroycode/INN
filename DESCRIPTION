@@ -1,7 +1,7 @@
 Package: INN
 Type: Package
 Title: Test of independence using multivariate ranks
-Version: 1.0.3
+Version: 1.0.4
 Author: Angshuman Roy
 Maintainer: Angshuman Roy <angshuman.roy.89@gmail.com>
 Description: Test of independence among several random vectors based on multivariate coordinatewise or spatial ranks of nearest neighbors.

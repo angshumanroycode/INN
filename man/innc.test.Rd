@@ -31,7 +31,7 @@ A list of the following components:
   \item{TCsum.stat}{
 The value of the test statistic TCsum.
 }
-  \item{TCsum.max}{
+  \item{TCsmax.stat}{
 The value of the test statistic TCmax.
 }
   \item{TCsum.cutoff}{
